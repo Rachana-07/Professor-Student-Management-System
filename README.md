@@ -33,14 +33,13 @@ The **Professor-Student Management System** is a synchronization-based applicati
 
 
 
-## Future Enhancements
 
 
-Timeout for Faculty Sleep: Introduce a timeout for the faculty, so the faculty doesn't sleep indefinitely when no students are waiting.
 
 
-Multiple Faculty Members: Extend the system to handle multiple faculty members assisting students.
 
 
-User Interface: Develop a user interface to visualize the state of the system and allow real-time interaction with the simulation.
+
+
+
 
